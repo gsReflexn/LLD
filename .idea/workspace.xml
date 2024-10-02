@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="adfe5cb7-98c7-474f-8d7f-fcd490679a46" name="Changes" comment="commiting changes">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LLDElevatorDesign/Building.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LLDElevatorDesign/Direction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LLDElevatorDesign/ElevatorCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LLDElevatorDesign/ElevatorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LLDElevatorDesign/ElevatorCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LLDElevatorDesign/ElevatorDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LLDElevatorDesign/ElevatorDoor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LLDElevatorDesign/ElevatorState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LLDElevatorDesign/ExternalDispatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LLDElevatorDesign/Floor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LLDElevatorDesign/InternalButtons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LLDElevatorDesign/InternalDispatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LLDElevatorDesign/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LLDTicTacToe/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LLDTicTacToe/Model/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LLDTicTacToe/Model/PieceType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LLDTicTacToe/Model/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LLDTicTacToe/Model/PlayingPiece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LLDTicTacToe/Model/PlayingPieceO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LLDTicTacToe/Model/PlayingPieceX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LLDTicTacToe/TicTacToeGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PizzaShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/BasePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/ExtraCheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/Farmhouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/Margherita.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/Mushroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/Topping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/vegDelight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/logistics_factory_design/Logistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/logistics_factory_design/LogisticsApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/logistics_factory_design/LogisticsFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/logistics_factory_design/RoadLogistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/logistics_factory_design/SeaLogistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/observable/IphoneStockObservable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/observable/StocksObservable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/observer/EmailAlertObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/observer/MobileAlertObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/observer/NotificationAlertObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parkingLot.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parkingLot/EntranceGate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parkingLot/ExitGate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parkingLot/FourWheelerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parkingLot/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parkingLot/ParkingLotManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parkingLot/ParkingSpot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parkingLot/ParkingSpotManagerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parkingLot/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parkingLot/TwoWheelerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parkingLot/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parkingLot/VehicleType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/withStrategyDesignPattern/GoodsVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/withStrategyDesignPattern/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/withStrategyDesignPattern/NormalVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/withStrategyDesignPattern/OffRoadVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/withStrategyDesignPattern/SportsVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/withStrategyDesignPattern/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/withStrategyDesignPattern/strategy/DriveStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/withStrategyDesignPattern/strategy/NormalDriveStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/withStrategyDesignPattern/strategy/SportsDriveStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/withoutStrategyPattern/GoodsVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/withoutStrategyPattern/OffRoadVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/withoutStrategyPattern/PassengerVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/withoutStrategyPattern/SportsVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/withoutStrategyPattern/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/PizzaShop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Store.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/decorator/BasePizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/decorator/ExtraCheese.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/decorator/Farmhouse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/decorator/Margherita.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/decorator/Mushroom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/decorator/Topping.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/decorator/vegDelight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/observable/IphoneStockObservable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/observable/StocksObservable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/observer/EmailAlertObserver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/observer/MobileAlertObserver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/observer/NotificationAlertObserver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/TestClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/withStrategyDesignPattern/GoodsVehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/withStrategyDesignPattern/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/withStrategyDesignPattern/NormalVehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/withStrategyDesignPattern/OffRoadVehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/withStrategyDesignPattern/SportsVehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/withStrategyDesignPattern/Vehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/withStrategyDesignPattern/strategy/DriveStrategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/withStrategyDesignPattern/strategy/NormalDriveStrategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/withStrategyDesignPattern/strategy/SportsDriveStrategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/withoutStrategyPattern/GoodsVehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/withoutStrategyPattern/OffRoadVehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/withoutStrategyPattern/PassengerVehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/withoutStrategyPattern/SportsVehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/withoutStrategyPattern/Vehicle.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2S73AwDLwfPoY6DyBDFg9MMmReN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/Gurmeet/IdeaProjects/TestProject/src/main/java&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/Gurmeet/IdeaProjects/TestProject/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="withStrategyDesignPattern.strategy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PizzaShop">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="withStrategyDesignPattern.Main" />
+      <module name="TestProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="withStrategyDesignPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PizzaShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PizzaShop" />
+      <module name="TestProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Store" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Store" />
+      <module name="TestProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PizzaShop" />
+        <item itemvalue="Application.Store" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="adfe5cb7-98c7-474f-8d7f-fcd490679a46" name="Changes" comment="" />
+      <created>1688483653023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688483653023</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="TEXT_FILTER_SETTINGS">
+                <TextFilterSettings>
+                  <option name="MATCH_CASE" value="true" />
+                </TextFilterSettings>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commiting changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="commiting changes" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
