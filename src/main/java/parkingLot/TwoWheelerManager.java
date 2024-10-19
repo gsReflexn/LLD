@@ -16,7 +16,7 @@ public class TwoWheelerManager extends  ParkingLotManager{
         parkingSpotList.sort(Comparator.comparingDouble(ParkingSpot::getDistanceFromEntrance));
         // Find the first available parking spot (closest to the entrance)
         for (ParkingSpot spot : parkingSpotList) {
-            if (!spot.getIsEmpty()) {
+            if (spot.getIsEmpty()) {
                 return spot;
             }
         }
