@@ -4,113 +4,51 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adfe5cb7-98c7-474f-8d7f-fcd490679a46" name="Changes" comment="commiting changes">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLDElevatorDesign/Building.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLDElevatorDesign/Direction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLDElevatorDesign/ElevatorCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLDElevatorDesign/ElevatorController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLDElevatorDesign/ElevatorCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLDElevatorDesign/ElevatorDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLDElevatorDesign/ElevatorDoor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLDElevatorDesign/ElevatorState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLDElevatorDesign/ExternalDispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLDElevatorDesign/Floor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLDElevatorDesign/InternalButtons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLDElevatorDesign/InternalDispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLDElevatorDesign/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLDTicTacToe/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLDTicTacToe/Model/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLDTicTacToe/Model/PieceType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLDTicTacToe/Model/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLDTicTacToe/Model/PlayingPiece.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLDTicTacToe/Model/PlayingPieceO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLDTicTacToe/Model/PlayingPieceX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LLDTicTacToe/TicTacToeGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PizzaShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/BasePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/ExtraCheese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/Farmhouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/Margherita.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/Mushroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/Topping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/vegDelight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/logistics_factory_design/Logistics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/logistics_factory_design/LogisticsApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/logistics_factory_design/LogisticsFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/logistics_factory_design/RoadLogistics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/logistics_factory_design/SeaLogistics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/observable/IphoneStockObservable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/observable/StocksObservable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/observer/EmailAlertObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/observer/MobileAlertObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/observer/NotificationAlertObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/TestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parkingLot.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parkingLot/EntranceGate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parkingLot/ExitGate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parkingLot/FourWheelerManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parkingLot/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parkingLot/ParkingLotManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parkingLot/ParkingSpot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parkingLot/ParkingSpotManagerFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parkingLot/Ticket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parkingLot/TwoWheelerManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parkingLot/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parkingLot/VehicleType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/withStrategyDesignPattern/GoodsVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/withStrategyDesignPattern/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/withStrategyDesignPattern/NormalVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/withStrategyDesignPattern/OffRoadVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/withStrategyDesignPattern/SportsVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/withStrategyDesignPattern/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/withStrategyDesignPattern/strategy/DriveStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/withStrategyDesignPattern/strategy/NormalDriveStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/withStrategyDesignPattern/strategy/SportsDriveStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/withoutStrategyPattern/GoodsVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/withoutStrategyPattern/OffRoadVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/withoutStrategyPattern/PassengerVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/withoutStrategyPattern/SportsVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/withoutStrategyPattern/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/PizzaShop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Store.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/decorator/BasePizza.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/decorator/ExtraCheese.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/decorator/Farmhouse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/decorator/Margherita.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/decorator/Mushroom.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/decorator/Topping.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/decorator/vegDelight.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/observable/IphoneStockObservable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/observable/StocksObservable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/observer/EmailAlertObserver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/observer/MobileAlertObserver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/observer/NotificationAlertObserver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/TestClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/withStrategyDesignPattern/GoodsVehicle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/withStrategyDesignPattern/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/withStrategyDesignPattern/NormalVehicle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/withStrategyDesignPattern/OffRoadVehicle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/withStrategyDesignPattern/SportsVehicle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/withStrategyDesignPattern/Vehicle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/withStrategyDesignPattern/strategy/DriveStrategy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/withStrategyDesignPattern/strategy/NormalDriveStrategy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/withStrategyDesignPattern/strategy/SportsDriveStrategy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/withoutStrategyPattern/GoodsVehicle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/withoutStrategyPattern/OffRoadVehicle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/withoutStrategyPattern/PassengerVehicle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/withoutStrategyPattern/SportsVehicle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/withoutStrategyPattern/Vehicle.class" afterDir="false" />
+    <list default="true" id="adfe5cb7-98c7-474f-8d7f-fcd490679a46" name="Changes" comment="LLD for BookMyShow, VendingMachine and ATM">
+      <change afterPath="$PROJECT_DIR$/src/main/java/CompositeDesignPattern/ProblemStatement/Directory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CompositeDesignPattern/ProblemStatement/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CompositeDesignPattern/ProblemStatement/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CompositeDesignPattern/Solution1WithCompositeDesign/Directory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CompositeDesignPattern/Solution1WithCompositeDesign/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CompositeDesignPattern/Solution1WithCompositeDesign/FileSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CompositeDesignPattern/Solution1WithCompositeDesign/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CompositeDesignPattern/Solution2WithCompositeDesign/ArithmeticExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CompositeDesignPattern/Solution2WithCompositeDesign/Expression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CompositeDesignPattern/Solution2WithCompositeDesign/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CompositeDesignPattern/Solution2WithCompositeDesign/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CompositeDesignPattern/Solution2WithCompositeDesign/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignSplitwise/Balance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignSplitwise/BalanceSheetController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignSplitwise/Expense/Expense.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignSplitwise/Expense/ExpenseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignSplitwise/Expense/ExpenseSplitType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignSplitwise/Expense/Split/EqualExpenseSplit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignSplitwise/Expense/Split/ExpenseSplit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignSplitwise/Expense/Split/PercentageExpenseSplit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignSplitwise/Expense/Split/Split.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignSplitwise/Expense/Split/UnequalExpenseSplit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignSplitwise/Expense/SplitFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignSplitwise/Group/Group.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignSplitwise/Group/GroupController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignSplitwise/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignSplitwise/Splitwise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignSplitwise/User/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignSplitwise/User/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignSplitwise/UserExpenseBalanceSheet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignBookMyShow/BookMyShow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DesignBookMyShow/BookMyShow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignBookMyShow/MovieController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DesignBookMyShow/MovieController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignBookMyShow/Seat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DesignBookMyShow/Seat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignBookMyShow/Theatre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DesignBookMyShow/Theatre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignBookMyShow/TheatreController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DesignBookMyShow/TheatreController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignVendingMachine/ItemShelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DesignVendingMachine/ItemShelf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignVendingMachine/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DesignVendingMachine/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignVendingMachine/VendingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DesignVendingMachine/VendingMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignVendingMachine/VendingStates/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DesignVendingMachine/VendingStates/State.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignVendingMachine/VendingStates/impl/DispenseState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DesignVendingMachine/VendingStates/impl/DispenseState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignVendingMachine/VendingStates/impl/HasMoneyState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DesignVendingMachine/VendingStates/impl/HasMoneyState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignVendingMachine/VendingStates/impl/IdleState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DesignVendingMachine/VendingStates/impl/IdleState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignVendingMachine/VendingStates/impl/SelectionState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DesignVendingMachine/VendingStates/impl/SelectionState.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,6 +66,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk-20.jdk/Contents/Home/lib/src.zip!/java.base/java/util/HashMap.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="2S73AwDLwfPoY6DyBDFg9MMmReN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -155,13 +96,39 @@
       <recent name="withStrategyDesignPattern.strategy" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PizzaShop">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="withStrategyDesignPattern.Main" />
+  <component name="RunManager" selected="Application.ChainPatternDemo">
+    <configuration name="ChainPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="COResponsibility.ChainPatternDemo" />
       <module name="TestProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="withStrategyDesignPattern.*" />
+          <option name="PATTERN" value="COResponsibility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AbstractFactoryJava.Client" />
+      <module name="TestProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AbstractFactoryJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LLDSnakeLadder.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LLDSnakeLadder.Main" />
+      <module name="TestProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LLDSnakeLadder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,9 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChainPatternDemo" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.LLDSnakeLadder.Main" />
         <item itemvalue="Application.PizzaShop" />
         <item itemvalue="Application.Store" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -200,6 +169,31 @@
       <option name="presentableId" value="Default" />
       <updated>1688483653023</updated>
     </task>
+    <task id="LOCAL-00001" summary="commiting changes">
+      <option name="closed" value="true" />
+      <created>1727856457526</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727856457526</updated>
+    </task>
+    <task id="LOCAL-00002" summary="LLD for Abstract factory and snake and ladder game.">
+      <option name="closed" value="true" />
+      <created>1728752473420</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728752473420</updated>
+    </task>
+    <task id="LOCAL-00003" summary="LLD for BookMyShow, VendingMachine and ATM">
+      <option name="closed" value="true" />
+      <created>1729333700389</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729333700389</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -226,7 +220,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commiting changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="commiting changes" />
+    <MESSAGE value="LLD for Abstract factory and snake and ladder game." />
+    <MESSAGE value="LLD for BookMyShow, VendingMachine and ATM" />
+    <option name="LAST_COMMIT_MESSAGE" value="LLD for BookMyShow, VendingMachine and ATM" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

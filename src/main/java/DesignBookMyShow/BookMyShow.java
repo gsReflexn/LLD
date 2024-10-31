@@ -31,7 +31,7 @@ public class BookMyShow {
 
     }
 
-    private void createBooking(City userCity, String movieName) {
+    public void createBooking(City userCity, String movieName) {
 
 
         //1. search movie by my location
