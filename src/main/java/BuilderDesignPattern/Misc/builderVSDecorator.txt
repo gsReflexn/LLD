@@ -1,0 +1,22 @@
+The Builder  -> Creational Design pattern.
+Decorator design ->  are both structural patterns in object-oriented design, but they serve different purposes and are used in distinct situations. Here’s a breakdown of their differences:
+
+1. Purpose
+Builder Pattern: The Builder pattern is primarily used for constructing complex objects step by step. It separates the construction process from the representation, allowing you to create different representations of an object with the same construction process.
+Decorator Pattern: The Decorator pattern is used to add functionality to an object dynamically, allowing you to extend or modify the behavior of objects without modifying the original class or using inheritance.
+2. When to Use
+Builder Pattern: Use the Builder pattern when you need to create an object with many optional fields or complex setups, especially if the object creation involves multiple steps or if you want to create different variants of an object.
+Decorator Pattern: Use the Decorator pattern when you want to add responsibilities or behaviors to an object at runtime, without affecting other instances of the same class, and when subclassing would lead to too many classes or be too rigid.
+3. Core Concept
+Builder Pattern: Focuses on constructing a complex object step-by-step and allows the client to control the building process.
+Decorator Pattern: Focuses on extending functionality dynamically, creating a flexible and reusable structure to add responsibilities to individual objects.
+4. Object Modification
+Builder Pattern: Does not modify the object after creation; instead, it simplifies and controls the process of creation itself.
+Decorator Pattern: Wraps objects, so it modifies or extends the object’s behavior dynamically even after the object is created.
+5. Implementation Structure
+Builder Pattern:
+Typically involves a Builder class that constructs the object and a Director class that oversees the construction process.
+The Builder pattern often works with a single instance that is configured step-by-step.
+Decorator Pattern:
+Involves a base class or interface, concrete components, and one or more decorator classes that wrap components.
+Decorators wrap the original object by holding a reference to it and adding new behaviors or properties as needed.
